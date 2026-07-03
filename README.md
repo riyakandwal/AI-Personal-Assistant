@@ -82,6 +82,12 @@ http://127.0.0.1:5000
 
 ---
 
+## Demo
+
+![AI Assistant](assets/screenshot.png)
+
+---
+
 ## 💡 Future Improvements
 
 - 🎤 Voice Assistant
